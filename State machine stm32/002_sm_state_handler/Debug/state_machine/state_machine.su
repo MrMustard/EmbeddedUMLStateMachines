@@ -1,0 +1,15 @@
+../state_machine/state_machine.c:18:6:protimer_init	24	static
+../state_machine/state_machine.c:47:16:protimer_state_machine	16	static
+../state_machine/state_machine.c:56:17:protimer_state_handler_IDLE	16	static
+../state_machine/state_machine.c:118:17:protimer_state_handler_TIME_SET	16	static
+../state_machine/state_machine.c:165:17:protimer_state_handler_COUNTDOWN	24	static
+../state_machine/state_machine.c:224:17:protimer_state_handler_PAUSE	16	static
+../state_machine/state_machine.c:273:17:protimer_state_handler_STAT	16	static
+../state_machine/state_machine.c:315:6:protimer_event_dispatcher	40	static
+../state_machine/state_machine.c:340:6:protimer_tick_event_dispatcher	16	static
+../state_machine/state_machine.c:369:9:button_deboucing	16	static
+../state_machine/state_machine.c:429:9:button_read	24	static
+../state_machine/state_machine.c:453:7:do_beep	8	static
+../state_machine/state_machine.c:461:7:display_clear	16	static
+../state_machine/state_machine.c:467:7:display_message	24	static
+../state_machine/state_machine.c:472:7:display_time	48	static
